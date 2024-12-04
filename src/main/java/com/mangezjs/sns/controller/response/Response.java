@@ -35,5 +35,6 @@ public class Response<T> {
                 "\"resultCode\":"+"\""+resultCode+"\","+
                 "\"result\":"+ "\""+ result + "\"" + "}";
 
+
     }
 }
